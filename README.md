@@ -13,7 +13,7 @@ Hacktoberfest is an easy way for users of open source to become contributors to 
 <h4>How to contribute?</h4>
 
 
-1. [Fork](https://github.com/Developer-Students-Clubs-MESCOE/HacktoberFest-AI-ML) this repository.
+1. [Fork](https://github.com/dscpvgcoet/HacktoberFest-DL) this repository.
 2. Clone the forked repository to your computer.
 
    `https://github.com/dscpvgcoet/HacktoberFest-DL`
