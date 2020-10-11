@@ -7,7 +7,7 @@ Sentiment analysis is often used in business to detect sentiment in social data,
 
 ## Problem Statement 
 Given a dataset consisting of reviews on Amazon Alexa, your task is to perform Sentiment Analysis on it and find whether a person is satisfied or not with the given product.<br>
-The dataset consist of only 2 columns
+The dataset consists of only 2 columns:
 <ul>
   <li>Label (positive or negative) </li>
   <li>Review (contains actual reviews of the customers) </li>
