@@ -20,4 +20,4 @@ The dataset consist of 34 independent features such as Age,Education , BusinessT
 3.Can we predict future terminations? <br>
 
 <b></b>Note : You can load the dataset in your notebook in folllowing manner :- <br>
-dataset = pandas.read_csv("Human_Resources.csv")
+dataset = pandas.read_csv("dataset.csv")
