@@ -21,5 +21,10 @@ You can use the datasets that we have provided:
 3. Clone this forked repository to your computer.
 4. Choose a dataset to work on, and use any suitable language like Python, R, etc.
 5. Add your code in respective folder (preferably a Jupyter Notebook).
-6. Use git's ```add```, ```commit```, and ```push``` commands to push to code on your repository.
+6. Push the code to your repository.  
+```
+git add .  
+git commit -m "your commit message here"  
+git push
+```  
 7. Create a Pull Request to the original repository.
