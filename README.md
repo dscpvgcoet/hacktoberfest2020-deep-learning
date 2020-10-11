@@ -5,13 +5,22 @@ Hacktoberfest is an easy way for users of open source to become contributors to 
 <ol><li>Sentiment Analysis on Amazon Alexa Reviews</li>
   <li>Car Price Prediction</li>
   <li>Churn Rate Prediction</li>
-<br>
-<b>How to contribute ?</b>
-  <ol>
-    <li>Fork this repository.</li>
-    <li>Clone the forked repository to your computer .
-    </li>
-    <li>Then choose a dataset to work in any suitable language(Python , R)</li>
-    <li>Add your code in respective folder of dataset</li>
-    <li>Issue a Pull Request</li>
-    
+  </ol>
+
+
+<hr>
+
+<h4>How to contribute?</h4>
+
+
+1. [Fork](https://github.com/Developer-Students-Clubs-MESCOE/HacktoberFest-AI-ML) this repository.
+2. Clone the forked repository to your computer.
+
+   ``
+
+3. Then choose a dataset to work in any suitable language(Python , R)<br>
+4. Add your code in respective folder of dataset<br>
+5.Issue a Pull Request
+
+
+<hr>
