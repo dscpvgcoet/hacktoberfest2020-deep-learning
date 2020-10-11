@@ -1,4 +1,4 @@
-# Sentiment - Analysis
+# Sentiment Analysis
 
 ![download](https://user-images.githubusercontent.com/58797479/95672112-a467fb80-0bbb-11eb-88c9-0eecfe8b19ea.jpg)
 
