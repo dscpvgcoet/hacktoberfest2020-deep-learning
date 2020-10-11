@@ -1,7 +1,17 @@
 # HacktoberFest-DL
 
+<br />
+<p align="center">
+  <a href="https://hacktoberfest.digitalocean.com/">
+    <img src="https://i.ibb.co/4FjRdbH/Logo-Sponsors-Light.png" alt="Logo">
+  </a>
+</p>
+
+
+
+
 Hacktoberfest is an easy way for users of open source to become contributors to open source ! In this repository , you would be able to contribute your various codes in deep learning domain!
-<br><b>Note </b> :- Various datasets are provided ,on which you can try your hands on.
+<br><b>Note </b> :- Various datasets are provided ,on which you can try your hands on such as :-
 <ol><li>Sentiment Analysis on Amazon Alexa Reviews</li>
   <li>Car Price Prediction</li>
   <li>Churn Rate Prediction</li>
