@@ -16,11 +16,10 @@ Hacktoberfest is an easy way for users of open source to become contributors to 
 1. [Fork](https://github.com/Developer-Students-Clubs-MESCOE/HacktoberFest-AI-ML) this repository.
 2. Clone the forked repository to your computer.
 
-   ``
+   `https://github.com/dscpvgcoet/HacktoberFest-DL`
 
 3. Then choose a dataset to work in any suitable language(Python , R)<br>
 4. Add your code in respective folder of dataset<br>
-5.Issue a Pull Request
-
+5.Issue a Pull Request.
 
 <hr>
