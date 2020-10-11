@@ -29,7 +29,9 @@ Hacktoberfest is an easy way for users of open source to become contributors to 
    `https://github.com/dscpvgcoet/HacktoberFest-DL`
 
 3. Then choose a dataset to work in any suitable language(Python , R)<br>
+
 4. Add your code in respective folder of dataset<br>
-5.Issue a Pull Request.
+
+&nbsp;&nbsp;&nbsp;  5.Issue a Pull Request.
 
 <hr>
